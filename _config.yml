@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://liliakim.github.io
+title: kim
+tagline: Hello Blog
+description: My awesome new Blog
+paginate: 20
